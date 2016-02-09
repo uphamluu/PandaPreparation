@@ -10,7 +10,14 @@ public class Class_01_01_4 {
         // TODO Auto-generated method stub
         
         System.out.println("Class_01_01_1");
+        dosomethingOfCl4();
 
+    }
+    
+    
+  public static void dosomethingOfCl4() {
+        Class_01_01_1.dosomething();
+        System.out.println("dosomethingOfCl4");
     }
 
 }

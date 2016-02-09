@@ -12,5 +12,10 @@ public class Class_01_01_1 {
         System.out.println("Class_01_01_1");
 
     }
+    
+    public static void dosomething() {
+        
+        System.out.println("dosomething");
+    }
 
 }
